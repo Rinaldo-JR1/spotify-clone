@@ -22,7 +22,7 @@ export default function Home() {
                     </div>
                     <h1 className={"font-semibold text-3xl mt-10"}>Bom dia</h1>
                     <div className={"grid grid-cols-3 gap-4 mt-4"}>
-                        <Album image={"https://i.scdn.co/image/ab67706c0000da8404095a89155bdcc01e3960a0"} name={"Musicas curtidas"}/>
+                        <Album image="/liked.jpg" name={"Musicas curtidas"}/>
                         <Album image={"https://m.media-amazon.com/images/I/51Oyrjlw5+L._UF1000,1000_QL80_.jpg"} name={"Hybrid Theory"} artist={"Linkin Park"}/>
                         <Album image={"https://m.media-amazon.com/images/I/71-G9C36s2L._UF1000,1000_QL80_.jpg"} name={"Come Over When You're Sober Pt.1"} artist={"Lil Peep"}/>
                         <Album image={"https://m.media-amazon.com/images/I/91nXuH6lzKL.__AC_SX300_SY300_QL70_ML2_.jpg"} name={"72 Seasons"} artist={"Metallica"}/>
